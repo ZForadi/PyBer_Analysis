@@ -3,7 +3,7 @@
 ## Overview of Project 
 A data analyst, Omer, and the CEO, V.Isualize from PyBer, a Python based ride-sharing app company, has asked for assistance in creating visualizations of rideshare data to help improve access to ride-sharing services and determine affordability for underserved neighborhoods.
 
-By utilizing data in the [city_data](Resources/city_data.csv) and the [ride_data](Resources/ride_data.csv) CSV files, an initial analysis was created which can be seen in [PyBer](PyBer.ipynb),
+By utilizing data in the [city_data](Resources/city_data.csv) and the [ride_data](Resources/ride_data.csv) CSV files, an initial analysis was created which can be seen in [PyBer](PyBer.ipynb).
 
 Specifically, the following were created in the initial analysis: 
 * Bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
